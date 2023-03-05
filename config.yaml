@@ -1,0 +1,20 @@
+login:
+  token: "HERE"
+# Change HERE with your bot's token.
+channel:
+  channel_names: ['HERE','HERE','gHERE']
+  amount: 1 
+#Change the here with the channel names . -EXAMPLE- killa-1-lol killa-1-2 killa-1-2-3
+
+roles:
+  role_names: ['HERE','HERE',"HERE"]
+#Change the HERE with the role names.
+webhooks:
+  message: "@everyone HERE"
+  names: ['HERE', 'HERE', 'HERE']
+#if you remove @everyone it will not ping anyone so it will be just useless.. just keep it there.
+
+
+# NOTE 
+
+# Have fun using my nuker. - Convicted#4898
